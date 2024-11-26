@@ -1,0 +1,8 @@
+Sorting :- Sorting is the process of arranging an array in either increasing or decreasing order.
+
+
+1.Bubble sort :- in this sorting mathod we pick largest element and put in last index of array.
+               Complexity: O(n)^2
+
+2.Insertion Sort :- Pick the first element of Unsorted array and place into the sorted array ,  
+3.Selection Sort :- Pick smallest number from the unsorted array and place starting of the unsorted array.
