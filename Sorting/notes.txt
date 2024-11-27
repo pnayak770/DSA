@@ -6,3 +6,14 @@ Sorting :- Sorting is the process of arranging an array in either increasing or 
 
 2.Insertion Sort :- Pick the first element of Unsorted array and place into the sorted array ,  
 3.Selection Sort :- Pick smallest number from the unsorted array and place starting of the unsorted array.
+                    (Find smallest element index and swap with unsorted array fisrt element)
+
+4.inbuilt Sort : increasing(Arrays.sort(name of array))
+                 decreasing(Arrays.sort(arr,Collections.reverseOrder());)
+
+5.lamda function :-this is function we can use to sort a array in diff diff condition.
+
+                   syntax :- Arrays.sort(array name , (a,b)->{
+                    return statment according to the condition;
+                   }) 
+                
